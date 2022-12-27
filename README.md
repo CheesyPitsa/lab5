@@ -1,3 +1,3 @@
 # lab5
-обучение модели
+Обучение модели.
 Токен доступа для Hugging Face: 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
